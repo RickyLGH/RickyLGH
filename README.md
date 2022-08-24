@@ -1,7 +1,6 @@
 - Hi I'm Ricky Liu
-- I’m interested in Software Engineering and Game Development
-- I’m currently learning 
-- How to reach me ...
+- I’m interested in Electrical Design, Software Engineering, Game Development
+- I’m currently study at UC Berkeley
 
 <!---
 RickyLGH/RickyLGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
